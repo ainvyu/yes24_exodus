@@ -1,3 +1,5 @@
-beautifulsoup4
 urllib3
 requests[security]
+beautifulsoup4
+html5lib
+lxml
